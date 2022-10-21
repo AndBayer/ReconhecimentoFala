@@ -1,0 +1,15 @@
+Reconhecimento de fala
+
+Biblioteca utilizada: SPEECHRECOGNITION
+
+Bibliotecas que é possível usar:
+Google -> Google Spech Recognition (Mais usada para reconhecimento de voz)
+Google -> Google Cloud
+Watson da IBM
+Bing da Microsoft
+Sphinx
+Wit.ai
+Snowboy
+Houndify
+
+Necessario baixar o PyAudio se quiser usar seu microfone
